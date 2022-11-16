@@ -1,1 +1,1 @@
-# my-blog-imgs
+# my-blog-img
